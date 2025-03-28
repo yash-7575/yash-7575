@@ -19,10 +19,6 @@ I'm currently pursuing my B.Tech at **VIT Pune**, located in the vibrant city of
 
 ## GitHub Stats
 
-🌟 **Public Repositories:** 6  
-👥 **Followers:** 1  
-🔗 **Following:** 17 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-7575&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-7575&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
